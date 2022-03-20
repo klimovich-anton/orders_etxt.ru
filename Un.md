@@ -7,3 +7,7 @@ __наклонный текст__
 ## Заголовок мельче
 ### Еще мельче.
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
