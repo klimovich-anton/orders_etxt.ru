@@ -22,3 +22,11 @@ tttt
   "name": "denis",
   "firstname": "klim"
 }
+```
+
+
+ууу
+```bash
+#script
+./script
+```
