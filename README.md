@@ -9,3 +9,16 @@
 **еще выделение**
 ***и еще выделение***
 ****тут что-то****
+
+```блок кода```
+eee
+
+:::code source="PowerShell.ps1" interactive="cloudshell-powershell":::
+
+tttt
+
+```json
+{
+  "name": "denis",
+  "firstname": "klim"
+}
